@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jules Mesnil</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate interactive developer from France</h3>
 
-- 🔭 I’m currently working at [Period Paris](https://period.paris/)
+- 🔭 I’m currently freelance
 
 - 👨‍💻 All of my projects are available at [https://bento.me/jules-mesnil](https://bento.me/jules-mesnil)
 
