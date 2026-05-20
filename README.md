@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently freelance
 
-- 👨‍💻 All of my projects are available at [https://bento.me/jules-mesnil](https://bento.me/jules-mesnil)
+- 👨‍💻 All of my projects are available at [https://julesmesnil.fr](https://julesmesnil.fr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
